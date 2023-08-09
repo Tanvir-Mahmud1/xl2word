@@ -30,7 +30,7 @@ def read_excel_and_write_to_word(excel_file, word_file):
     print("Data successfully copied to Word file.")
 
 
-# Usage example
+# Check File existance and Name of the file Bellow.................................................................................................................
 excel_file_path = "example.xlsx"
 word_file_path = "output.docx"
 
